@@ -1,5 +1,6 @@
 //Word and Hints Object
 const options = {
+  diseñador: "Diseñador",
   aroma: "Pleasing smell",
   pepper: "Salt's partner",
   halt: "put a stop to",
